@@ -7,3 +7,4 @@ python-dotenv
 faiss-cpu
 langchain-community
 beautifulsoup4
+langchain_groq
